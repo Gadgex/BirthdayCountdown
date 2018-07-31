@@ -3,7 +3,7 @@
     grid-column: 4/5;
     justify-self: start;
 
-    font-size: 22px;
+    font-size: 24px;
     font-weight: 100;
     line-height: 19px;
     text-align: center;
@@ -13,8 +13,7 @@
     background-color: transparent;
     border: none;
 
-    transform: rotate(-70deg) translate(-100px, -135px);
-    width: 300px;
+    transform: rotate(-70deg) translate(-70px, -70px);
 
     &:focus {
         outline: none;
@@ -22,6 +21,5 @@
 
     i {
         margin-right: 10px;
-    }
-    
+    } 
 }
