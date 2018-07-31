@@ -1,10 +1,9 @@
 .picker {
     grid-column: 5/10;
     grid-row: 2/3;
-    // background-color: cornflowerblue;
-    
     padding-bottom: 50px;
     justify-self: center;
+    align-self: end;
     
     input {
         font-size: 80px;
