@@ -3,7 +3,7 @@
     &__skew-light-one {
         -webkit-clip-path: polygon(0 0, 0% 100%, 100% 100%);
         clip-path: polygon(0 0, 0% 100%, 100% 100%);
-        background-color: $color-blue-one;
+        background-color: $color-orange-one;
 
         grid-column: 1/2;
         grid-row: 3/4;
@@ -12,14 +12,14 @@
     &__skew-light-two {
         -webkit-clip-path: polygon(0 0, 0% 100%, 100% 100%);
         clip-path: polygon(0 0, 0% 100%, 100% 100%);
-        background-color: $color-blue-one;
+        background-color: $color-orange-one;
 
         grid-column: 2/3;
         grid-row: 4/5;
     }
 
     &__skew-light-three-box {
-        background-color: $color-blue-one;
+        background-color: $color-orange-one;
 
         grid-column: 1/2;
         grid-row: 4/5;
@@ -31,7 +31,7 @@
     &__skew-dark-two {
         z-index: -10;
 
-        background-color: $color-blue-two;
+        background-color: $color-orange-two;
         grid-column: 1/5;
         grid-row: 1/5;
 
